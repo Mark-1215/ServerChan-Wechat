@@ -6,7 +6,7 @@
         <script src="https://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
         <link rel="stylesheet" href="css/serverchan.min.css" type="text/css" />
         <link rel="stylesheet" href="css/tip.min.css" type="text/css" />
-        <!-- 自定义背景已关闭
+        <!-- 自定义背景已 -->
         <style>
             body:before{
                 background: url(img/bg_wide.jpg) no-repeat bottom center
@@ -25,7 +25,7 @@
                     echo("body:before{display: none !important}");
                 }
             ?>
-        </style> -->
+        </style>
     </head>
     <body>
         <div id="form-bg" style="">
