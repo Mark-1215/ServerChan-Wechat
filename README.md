@@ -1,7 +1,7 @@
 # ServerChan-Wechat
 一个基于[ServerChan](https://sc.ftqq.com) 推送服务的私信发送站点
 
-初始代码为"神代綺凜"提供，本版本为魔化版，添加了英文
+创意及代码来自 `神代綺凜` Mark完善了英文界面。
 
 具体效果可以看：  
 [iframe内嵌](https://www.quchao.net/msg.html)  
